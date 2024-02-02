@@ -1,6 +1,6 @@
 # Airbne
 
-## Members of the group
+## Creator
 Jillian Graham
 
 ## Project goal
@@ -8,11 +8,12 @@ Airbne is a BI project whose goal is to help individuals and families legally oc
 
 ## Dataset description 
  * Source: all datasets were accessed through data.gov
-   * Pittsburgh, PA 2021 foreclosures: https://catalog.data.gov/dataset/allegheny-county-mortgage-foreclosure-records
    * Los Angeles, CA 2023 foreclosures: https://catalog.data.gov/dataset/2023-registered-foreclosure-properties
    * Louisville, KY 2023 foreclosures: https://catalog.data.gov/dataset/louisville-metro-ky-property-foreclosures
- * Number of rows:
- * Number of features:
+ * Number of rows; columns:
+   * Los Angeles, CA 2023 foreclosures: 2080 rows; 18 columns
+   * Louisville, KY 2023 foreclosures: 1237 rows; 16 columns.
+
 
 ## Project plan
 ### Day 1 (business casing)
@@ -34,10 +35,11 @@ Airbne is a BI project whose goal is to help individuals and families legally oc
 * Validate or reject hypotheses
 
 ### Day 4 (data visualization)
-* Determine optimal visualization techniques
+* Apply visualization techniques
 * Create dashboard
 * Develop narrative
 * Create documentation
+* Prepare presentation
 
 ### Day 5 (communication)
 * Present case and findings

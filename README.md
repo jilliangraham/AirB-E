@@ -30,7 +30,6 @@ Airbne is a BI project whose goal is to help individuals and families legally oc
 * Handle missing data
 * Standardize information
 * Merge datasets
-* Transform data
 
 ### Day 3 (data analysis)
 * Conduct EDA

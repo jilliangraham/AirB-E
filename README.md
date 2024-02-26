@@ -1,21 +1,14 @@
-# Airbne
+# Airbne - Squatabilty by US State
 
 ## Creator
 Jillian Graham
 
 ## Project goal
-Airbne is a BI project whose goal is to help individuals and families legally occupy foreclosed homes in their area.
+Building on the BI Airbne project, this iteration will aim to make a supervised machine learning model that predicts the 'squatability' of the US states through the use of different independent variables.
 
 ## Dataset description 
- * Los Angeles, CA 2015 foreclosures: https://catalog.data.gov/dataset/2015-registered-foreclosure-properties; 8255 rows; 15 columns.
- * Los Angeles, CA 2016 foreclosures: https://catalog.data.gov/dataset/2016-registered-foreclosure-properties; 7638 rows; 15 columns.
- * Los Angeles, CA 2017 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 1754 rows; 16 columns.
- * Los Angeles, CA 2018 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 3112 rows; 16 columns.
- * Los Angeles, CA 2019 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 3317 rows; 18 columns.
- * Los Angeles, CA 2020 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 3005 rows; 18 columns.
- * Los Angeles, CA 2021 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 2134 rows; 18 columns.
- * Los Angeles, CA 2022 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 2437 rows; 18 columns.
- * Los Angeles, CA 2015-2022 homelessness: https://www.lahsa.org/data?id=52-homeless-count-by-city-of-la-council-district-2015-2022; 8 rows; 7 columns.
+ * 
+ * 
 
 
 ## Project plan

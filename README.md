@@ -1,10 +1,10 @@
-# Airbne - Squatabilty by US State
+# Squatify
 
 ## Creator
 Jillian Graham
 
 ## Project goal
-Building on the BI Airbne project, this iteration will aim to make a supervised machine learning model that predicts the 'squatability' of the US states through the use of different independent variables.
+Building on the BI Airbne project, Squatify aims to be a supervised machine learning model that predicts the 'squatability' of the US states through the use of different independent variables.
 
 ## Dataset description 
 All datasets were procured by from worldpopulationreview.com.

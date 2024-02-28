@@ -4,7 +4,7 @@
 Jillian Graham
 
 ## Project goal
-Building on the BI Airbne project, Squatify aims to understand which districts in the US are the most socially vulnerable, as a proxy for determining their 'squatability'.
+Building on the BI Airbne project, Squatify is a machine learning program that aims to understand which districts in the US are the most socially vulnerable, as a proxy for determining their 'squatability'.
 
 ## Dataset description 
 * Socioeconomic Status:

@@ -1,10 +1,10 @@
-# Squatify
+# Politecide
 
 ## Creator
 Jillian Graham
 
 ## Project goal
-Building on the BI Airbne project, Squatify is a machine learning program that aims to understand which districts in the US are the most socially vulnerable, as a proxy for determining their 'squatability'.
+Politecide is a machine learning program that aims to predict whether a county will vote Republican or Democrat based on the input of three social vulnerability factors.
 
 ## Dataset description 
 

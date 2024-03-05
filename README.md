@@ -7,7 +7,7 @@ Jillian Graham
 Politecide is a machine learning program that aims to predict whether a county will vote Republican or Democrat based on the input of three social vulnerability factors.
 
 ## Dataset description 
-
+### Social vulnerability index
 Procured from the Agency for Toxic Substanes and Disease Registry. The dataset contains 3143 rows and 158 columns. The columns are breakdowns of the following categories:
 
 * Socioeconomic Status:
@@ -40,24 +40,17 @@ Procured from the Agency for Toxic Substanes and Disease Registry. The dataset c
   * No Vehicle
   * Group Quarters
 
-## Project plan
-### Data Collection and Compilation:
-* Gather dataset
-* Determine inclusion data 
-
-## Feature Selection and Engineering:
-* Identify key indicators of social vulnerability
-* Normalize data
- 
-## Social Vulnerability Index Calculation:
-* Develop scoring system to calculate the Social Vulnerability Index for each district
-* Aggregate normalized values to compute the SVI
-* Rank districts based on their SVI scores to identify areas with the highest squatability.
-
-## Identification of Vulnerable Districts:
-* Use clustering techniques to group districts with similar vulnerability profiles and identify spatial patterns of vulnerability.
-* Visualize the SVI scores on thematic maps to visualize geographic disparities and identify hotspots of social vulnerability.
-Analysis of Vulnerability Drivers:
-
-## (If time allows) Spatial Analysis and Mapping: 
-* Analyze the spatial distribution of social vulnerability 
+### 2000-2020 presidential election outcome by county
+Procured from the Harvard Dataverse. The dataset contains 72,619 rows and 12 columns. The columns are:
+* Year
+* State
+* State abbreviation
+* County
+* County FIPS
+* Political office
+* Candidate
+* Political party
+* Candidate votes
+* Total votes
+* Dataset version
+* Mode

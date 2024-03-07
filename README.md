@@ -1,4 +1,4 @@
-# Politecide
+# Politicall
 
 ## Creator
 Jillian Graham

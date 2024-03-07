@@ -1,47 +1,56 @@
-# Airbne
+# Politicall
 
 ## Creator
 Jillian Graham
 
 ## Project goal
-Airbne is a BI project whose goal is to help individuals and families legally occupy foreclosed homes in their area.
+Politecide is a machine learning program that aims to predict whether a county will vote Republican or Democrat based on the input of three social vulnerability factors.
 
 ## Dataset description 
- * Los Angeles, CA 2015 foreclosures: https://catalog.data.gov/dataset/2015-registered-foreclosure-properties; 8255 rows; 15 columns.
- * Los Angeles, CA 2016 foreclosures: https://catalog.data.gov/dataset/2016-registered-foreclosure-properties; 7638 rows; 15 columns.
- * Los Angeles, CA 2017 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 1754 rows; 16 columns.
- * Los Angeles, CA 2018 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 3112 rows; 16 columns.
- * Los Angeles, CA 2019 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 3317 rows; 18 columns.
- * Los Angeles, CA 2020 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 3005 rows; 18 columns.
- * Los Angeles, CA 2021 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 2134 rows; 18 columns.
- * Los Angeles, CA 2022 foreclosures: https://catalog.data.gov/dataset/2017-registered-foreclosure-properties; 2437 rows; 18 columns.
- * Los Angeles, CA 2015-2022 homelessness: https://www.lahsa.org/data?id=52-homeless-count-by-city-of-la-council-district-2015-2022; 8 rows; 7 columns.
+### Social vulnerability index
+Procured from the Agency for Toxic Substanes and Disease Registry. The dataset contains 3143 rows and 158 columns. The columns are breakdowns of the following categories:
 
+* Socioeconomic Status:
+  * Below 150% Poverty
+  * Unemployed
+  * Housing Cost Burden
+  * No High School Diploma
+  * No Health Insurance
 
-## Project plan
-### Day 1 (business casing)
-* Define objectives, problem statement, and hypotheses
-* Determine MVP scope
-* Identify success criteria
-* Identify limitations and potential risks
-* Document local squatting laws 
+* Household Characteristics:
+  * Aged 65 & Older
+  * Aged 17 & Younger
+  * Civilian with a Disability
+  * Single-Parent Households
+  * English Language Proficiency
 
-### Day 2 (data cleaning)
-* Handle missing data
-* Standardize information
-* Merge datasets
+* Racial & Ethnic Minority Status:
+  * Hispanic or Latino (of any race)
+  * Black and African American, Not Hispanic or Latino
+  * American Indian and Alaska Native, Not Hispanic or Latino
+  * Asian, Not Hispanic or Latino
+  * Native Hawaiian and Other Pacific Islander, Not Hispanic or Latino
+  * Two or More Races, Not Hispanic or Latino
+  * Other Races, Not Hispanic or Latino
 
-### Day 3 (data analysis)
-* Conduct EDA
-* Derive insights
-* Validate or reject hypotheses
+* Housing Type & Transportation:
+  * Multi-Unit Structures
+  * Mobile Homes
+  * Crowding
+  * No Vehicle
+  * Group Quarters
 
-### Day 4 (data visualization)
-* Apply visualization techniques
-* Create dashboard
-* Develop narrative
-* Create documentation
-* Prepare presentation
-
-### Day 5 (communication)
-* Present case and findings
+### 2000-2020 presidential election outcome by county
+Procured from the Harvard Dataverse. The dataset contains 72,619 rows and 12 columns. The columns are:
+* Year
+* State
+* State abbreviation
+* County
+* County FIPS
+* Political office
+* Candidate
+* Political party
+* Candidate votes
+* Total votes
+* Dataset version
+* Mode
